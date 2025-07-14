@@ -330,3 +330,8 @@ ASALocalRun/
 .mfractor/
 
 *.DS_Store
+
+.vscode
+.github
+.devcontainer
+__pychache__
